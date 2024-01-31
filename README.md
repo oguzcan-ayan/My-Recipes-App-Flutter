@@ -1,16 +1,21 @@
-# my_recipes
 
-A new Flutter project.
+# My Recipes
 
-## Getting Started
+Kullanıcıların yemek tariflerini, yemeklerin resimlerini, içerisinde kullanılan malzemeleri, bunların videolu bir şekilde anlatıldığı bir flutter mobil projesidir.
 
-This project is a starting point for a Flutter application.
+It is a flutter mobile project where users can share recipes, pictures of dishes, the ingredients used in them, and explain them with videos.
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanılan Teknolojiler-Used Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[cupertino_icons@1.0.2](https://pub.dev/packages/cupertino_icons)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[firebase_core@2.24.2](https://pub.dev/packages/firebase_core)
+
+[firebase_auth@4.15.3](https://pub.dev/packages/firebase_auth)
+
+[cloud_firestore@4.13.6](https://pub.dev/packages/cloud_firestore)
+
+[flutter_lints@2.0.0](https://pub.dev/packages/flutter_lints)
+
+
+
